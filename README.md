@@ -1,3 +1,7 @@
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+  <img src="https://media2.giphy.com/media/xfR8Igj2OjI63PTtKA/giphy.gif?cid=ecf05e47inibq7csxn4fbl1ut9zj9opp2ijf6ffsg1rm4w4o&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" height="30%" ></img>
+</div>
+
 <h1 align="center">Hi 👋, I'm Muhammad Suhan</h1>
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
