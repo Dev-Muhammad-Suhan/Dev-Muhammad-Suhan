@@ -1,5 +1,5 @@
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-  <img src="https://assets-v2.lottiefiles.com/a/43058e40-1151-11ee-81c6-635ef4f3b57d/SbDrkZTMGT.gif" width="100%" height="30%" ></img>
+  <img src="https://community.adobe.com/legacyfs/online/1754692_lines.gif" width="100%" height="30%" ></img>
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Suhan</h1>
