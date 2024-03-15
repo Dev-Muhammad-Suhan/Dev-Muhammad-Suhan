@@ -1,6 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
-  <img src="https://community.adobe.com/legacyfs/online/1754692_lines.gif" width="100%" height="30%" >
-</div>
+
 <div>
   <img src="https://assets-v2.lottiefiles.com/a/fa15a88e-1171-11ee-8940-93fcd0671262/kHaYa5EJlC.gif"> 
 </div>
